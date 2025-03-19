@@ -1,3 +1,6 @@
 "Esto es un codigo de conducta" 
 
-"Hello my name is EIVC"
+
+No me gustaria que alguien me borrara mi código
+No me gustaria que escribieran variables con nombres raros
+
