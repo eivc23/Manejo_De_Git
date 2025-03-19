@@ -1,6 +1,7 @@
 "Esto es un codigo de conducta" 
 
+Hola 
 
-No me gustaria que alguien me borrara mi código
-No me gustaria que escribieran variables con nombres raros
+No me gustaria
+No me gustaria 
 
